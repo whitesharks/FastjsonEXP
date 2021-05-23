@@ -2,7 +2,10 @@
 FastJson利用工具
 
 恶意类挂载借用wyzxxz老哥的工具，我只是套个壳子
+
 https://github.com/wyzxxz/fastjson_rce_tool
+
+此工具未做加密，不放心的老哥可以自己看，不放源码只因代码太过丑陋
 
 此工具尚不完善，目前仅在靶机环境中测试，欢迎各位老哥提bug
 
